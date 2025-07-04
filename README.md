@@ -104,10 +104,7 @@ python main.py \
 DLF-BRAM 包括以下关键设计：
 
 * ✅ **多分支结构**：三个分支分别建模不同空间-块信息。
-* ✅ **块级区域建模**：基于 AU 选择的区域进行局部建模。
 * ✅ **动态权重更新**：训练时根据可识别性分支性能自适应融合。
-* ✅ **支持5块/7块设置**：可选不同区域划分粒度。
-* ✅ **交叉验证**：通过 `--train_flag` 参数切换数据划分。
 
 ---
 
@@ -132,7 +129,7 @@ checkpoints/Dolos_1_DLF_BRAM_4_5/bestepoch.pth
 
 如果你在研究中使用了本代码，请引用：
 
-> *Zhu et al., "DLF-BRAM: Dual-Level Block Relation-Aware Modeling for Deception Detection", TIFS 2025 (Under Review).*
+> *Zhu et al., "Detecting Deceptive Behavior via Learning Relation-Aware Visual Representations", TIFS 2025 (Under Review).*
 
 ---
 
@@ -141,10 +138,8 @@ checkpoints/Dolos_1_DLF_BRAM_4_5/bestepoch.pth
 如有问题或合作意向，请联系项目负责人：
 
 ```
-朱俊伟 - 浙江工商大学
-邮箱: zc123***@mail.zjgsu.edu.cn
+email: dongliangzhu@whz.edu.cn, zhangchi_@stu.xidian.edu.cn
 ```
 
 ---
 
-如果你需要我帮你根据现有目录自动生成 `.gitignore` 或 `requirements.txt`，我也可以一并生成。是否需要？
