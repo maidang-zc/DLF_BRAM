@@ -58,6 +58,7 @@ data/
 └── Dolos/
     ├── frames/              # Subfolder for each video with image frames
     └── keyblock7head/       # JSON annotations per frame (body parts); format see in utils.image_crop.py
+    # preprocess by Alphapose
 ```
 
 ### 2. Train the Model
