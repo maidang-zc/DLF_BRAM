@@ -17,6 +17,12 @@ Extensive experiments on public datasets show that DLF-BRAM outperforms existing
 
 ---
 
+## 🧭 主框图
+
+![Main Diagram](images-paper/DLF_BRAM.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
