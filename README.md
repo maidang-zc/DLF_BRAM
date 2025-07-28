@@ -1,6 +1,6 @@
 ---
 
-# 🎭 Detecting Deceptive Behavior via Learning Relation-Aware Visual Representations (DLF-BRAM)
+# 🎭 [Detecting Deceptive Behavior via Learning Relation-Aware Visual Representations (DLF-BRAM)](https://ieeexplore.ieee.org/document/11072177)
 
 ---
 
@@ -110,10 +110,19 @@ python main.py \
 
 ## 📚 Citation
 
-If you use this project in your research, please cite:
-
-> *Zhu et al., "Detecting Deceptive Behavior via Learning Relation-Aware Visual Representations", IEEE TIFS 2025 (Under Review).*
-
+If you use this project in your research, please cite bibtex:
+```
+@ARTICLE{11072177,
+  author={Zhu, Dongliang and Zhang, Chi and Hu, Ruimin and Wang, Mei and Liao, Liang and Ye, Mang},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Detecting Deceptive Behavior via Learning Relation-Aware Visual Representations}, 
+  year={2025},
+  volume={20},
+  number={},
+  pages={7077-7090},
+  keywords={Feature extraction;Limbs;Visualization;Security;Training;Data mining;Magnetic heads;Face recognition;Deep learning;Spatiotemporal phenomena;Automated deception detection;human behavior understanding;deep learning},
+  doi={10.1109/TIFS.2025.3586468}}
+```
 ---
 
 ## 📬 Contact
